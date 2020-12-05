@@ -1,4 +1,8 @@
-![](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon.svg)
+<p align="center">
+  <img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon.svg" width="300" height="300" alt="visbug">
+  <br>
+</p>
+
 ![](https://img.shields.io/badge/-Open--source%20internship%20program's-blue)
 
 
