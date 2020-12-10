@@ -2,7 +2,7 @@
   <img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon.svg" width="300" height="300" alt="gsoc">
 </p>
 
-![](https://img.shields.io/badge/-Open--source%20internship%20program's-blue)
+![](https://img.shields.io/badge/-Open--source%20internship%20program--platform's-blue)
 
 
 
@@ -17,3 +17,14 @@
 | [Linux Foundation Mentorship Program ](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [Outline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-SummerPT(Part-Time)MenteeSchedule) |
 | [Redox Summer of Code](https://www.redox-os.org/rsoc/) | Yes | [Outline](https://www.redox-os.org/rsoc/) |
 
+![](https://img.shields.io/badge/-Open--source%20code--editor-blue)
+
+| Name                                    | link |
+|-----------------------------------------|-------------|
+| Codesandbox | [link](https://codesandbox.io/s)|
+| scrimba  | [link](https://scrimba.com/)|
+| Stackblitz | [link](https://stackblitz.com/) |
+| Glitch | [link](https://glitch.com/) |
+| Jsbin | [link](http://jsbin.com/) |
+| Jsfiddle | [link](http://jsfiddle.com/) | 
+| Repl | [link](https://repl.it/) |
